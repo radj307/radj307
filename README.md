@@ -1,5 +1,5 @@
 ### I make a lot of random things, some of which are useful!  
 
-Feel free to ask me about anything, including how _(or why)_ to use one of my projects.  
-I always read any reported issues, and do my best to fix them asap.  
-__Suggestions, pull requests, and/or any input is always appreciated!__  
+Feedback is always appreciated, and I'm always willing to collaborate.  
+
+I always read any/all reported issues, if you find a problem with one of my programs I'll fix it ASAP.  
