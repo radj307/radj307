@@ -12,7 +12,7 @@ Some useful projects I've made:
   An archery overhaul mod in the form of a Mutagen Synthesis patcher.
 - The Synthesis patcher for wSkeever's [Quest Journal Limit Fixer](https://www.nexusmods.com/skyrimspecialedition/mods/56130) mod.  
   Fixes a long-standing bug with the Creation engine where having too many active quests would cause objectives to be erased.
-- CACO Potion Builder CLI  
+- Skyrim Alchemy CLI Utility  
   This was a personal project because I wanted a clean, fast, and powerful commandline utility for Skyrim's alchemy system.
   Started as a lightweight alternative to [dhildebr's caco-potion-builder](https://github.com/dhildebr/caco-potion-builder), but quickly eclipsed it in terms of features.
 
