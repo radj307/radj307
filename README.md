@@ -6,7 +6,7 @@ Some useful projects I've made:
 - [ARRCON](https://github.com/radj307/ARRCON)  
   An interactive shell prompt and administrator utility compatible with any game using the widely-used Source RCON protocol.
 - [Volume Control](https://github.com/radj307/volume-control)  
-  A hotkey utility for Windows that lets you control the volume of global spplications using global customizable hotkeys.  
+  A hotkey utility for Windows that lets you control the volume of global applications using global customizable hotkeys.  
   Works with everything that Windows recognizes in the volume mixer, and supports rebinding the volume rocker on keyboards.
 - [Gamebryo Engine Unit Converter](https://github.com/radj307/Gamebryo-Engine-Unit-Converter)  
   The first (and only afaik) utility for converting between metric/imperial and the elusive "Unit" used by Bethesda's Gamebryo/Creation engines.
