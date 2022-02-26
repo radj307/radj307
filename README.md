@@ -13,7 +13,7 @@ Some useful projects I've made:
 - [Another Archery Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/53810)  
   Mutagen patcher for Skyrim (LE/SE/AE) that allows modifying projectile physics & engine flags.  
   Fully customizable projectile overhaul that is compatible with all mods, includes everything from AAT & more.
-- [Another Archery Tweak](https://github.com/radj307/Another-Archery-Tweak) for [Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/41018)  
+- Another Archery Tweak for Skyrim Special Edition ([Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/41018), [Github](https://github.com/radj307/Another-Archery-Tweak))  
   Just another modular archery physics overhaul that focuses on fixing the many bugs present in the game, especially for stealth archers.
 - [SpeedAndReachFixes](https://github.com/Synthesis-Collective/speedandreachfixes) Mutagen Patcher  
   The Synthesis version of GodlySandwich's zEdit patcher of the same name.  
