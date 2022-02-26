@@ -14,7 +14,7 @@ Some useful projects I've made:
   Mutagen patcher for Skyrim (LE/SE/AE) that allows modifying projectile physics & engine flags.  
   Fully customizable projectile overhaul that is compatible with all mods, includes everything from AAT & more.
 - [Another Archery Tweak]() for [Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/41018)  
-  Just another modular archery physics overhaul that focuses on fixing the many bugs present in , especially for stealth archers.
+  Just another modular archery physics overhaul that focuses on fixing the many bugs present in the game, especially for stealth archers.
 - [SpeedAndReachFixes](https://github.com/Synthesis-Collective/speedandreachfixes) Mutagen Patcher  
   The Synthesis version of GodlySandwich's zEdit patcher of the same name.  
   Provides a highly configurable and expandable weapon handling overhaul and bug fix compendium compatible with any Skyrim release.
