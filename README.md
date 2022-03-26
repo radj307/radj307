@@ -6,7 +6,7 @@ Some useful projects I've made:
 - [ARRCON](https://github.com/radj307/ARRCON)  
   An interactive shell prompt and administrator utility compatible with any game using the widely-used Source RCON protocol.
 - [Volume Control](https://github.com/radj307/volume-control)  
-  A hotkey utility for Windows that lets you control the volume of global applications using global customizable hotkeys.  
+  A hotkey utility for Windows that lets you control the volume of specific applications using global customizable hotkeys.  
   Works with everything that Windows recognizes in the volume mixer, and supports rebinding the volume rocker on keyboards.
 - [mousetrap](https://github.com/radj307/mousetrap)  
   A crude utility that prevents your mouse cursor from leaving a specified monitor. Useful for games that don't lock the mouse themselves.
