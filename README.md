@@ -20,6 +20,7 @@ Some useful projects I've made:
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/41018"><img alt="Custom badge" src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fgist.githubusercontent.com%2Fradj307%2Fe9a80731ee236cc67fb00b698e75201e%2Fraw%2F5230074dfb1a60fba917a1232f9382fa5cfec5db%2Fendpoint.json"></a>  
   Just another modular archery physics overhaul that focuses on fixing the many bugs present in the game, especially for stealth archers.
 - [SpeedAndReachFixes](https://github.com/Synthesis-Collective/speedandreachfixes) Mutagen Patcher  
+  <a href="https://github.com/Synthesis-Collective/speedandreachfixes"><img alt="Custom badge" src="https://img.shields.io/endpoint?labelColor=2A1F62&style=flat-square&url=https%3A%2F%2Fgist.githubusercontent.com%2Fradj307%2F7d6f4ecf272b649c9fc94eaa26b90396%2Fraw%2Fbc046fd2fe24c587a2aa8640ac9f516d371ca2be%2Fendpoint.json"></a>  
   The Synthesis version of [GodlySandwich's zEdit patcher](https://www.nexusmods.com/skyrimspecialedition/mods/29847) of the same name.  
   Provides a highly configurable and expandable weapon handling overhaul and bug fix compendium compatible with any Skyrim release.
 - [Skyrim Alchemy CLI Utility](https://github.com/radj307/alch)  
