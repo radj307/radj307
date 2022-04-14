@@ -3,7 +3,8 @@ Some of the things I've made:
 ### Programs
 
 - [ARRCON](https://github.com/radj307/ARRCON)  
-  An interactive shell prompt and administrator utility compatible with any game using the widely-used Source RCON protocol.
+  An RCON client compatible with the widely-used Source RCON protocol.  
+  Rather than focusing on 
 - [Volume Control](https://github.com/radj307/volume-control)  
   A hotkey utility for Windows that lets you control the volume of specific applications using global customizable hotkeys.  
   Works with everything that Windows recognizes in the volume mixer, and supports rebinding the volume rocker on keyboards.
